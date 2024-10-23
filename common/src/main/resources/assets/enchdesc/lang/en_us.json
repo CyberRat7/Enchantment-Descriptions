@@ -92,4 +92,9 @@
   "__support_cardiac": "https://modrinth.com/mod/cardiac",
   "enchantment.cardiac.lifesteal.desc": "Killing mobs drops more healing orbs."
 
+
+  "__support_better_archeology": "https://www.curseforge.com/minecraft/mc-mods/better-archeology",
+  "enchantment.betterarcheology.penetrating_strike.desc": "Damage dealt by the enchanted weapon ignores the protection enchantment.",
+  "enchantment.betterarcheology.tunneling.desc": "Breaks the block that is underneath the block broken with this tool.",
+  "enchantment.betterarcheology.soaring_winds.desc": "The enchanted elytra gives the wearer a small boost when taking off.",
 }
